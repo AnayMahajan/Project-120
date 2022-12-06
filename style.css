@@ -1,0 +1,13 @@
+.container{
+    background: lightgrey;
+    border-radius: 20px;
+    margin-right: -30px;
+}
+.img{
+    width: 200px;
+    height: 275px;
+    border-radius: 20px;
+}
+.text{
+    font-weight: bolder;
+}
